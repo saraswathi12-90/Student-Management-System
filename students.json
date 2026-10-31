@@ -1,0 +1,15 @@
+[
+    {
+        "name": "saraswathi",
+        "age": 12,
+        "maths": 45,
+        "science": 12,
+        "english": 67,
+        "social": 89,
+        "computer": 34,
+        "total": 247,
+        "percentage": 49.4,
+        "result": "Fail",
+        "grade": "F"
+    }
+]
