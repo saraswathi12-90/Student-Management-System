@@ -36,4 +36,5 @@ python student_management.py
 The program displays a menu to add, view, search, update and delete student records.
 
 ## Author
-Your Name
+saraswathi
+
